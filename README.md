@@ -1,7 +1,7 @@
 # 404 Not Found
-![Bagde]()
-![Bagde]()
-![Bagde]()
+![Bagde](https://img.shields.io/github/license/jonathanmacedo/404-not-found)
+![Bagde](https://img.shields.io/github/forks/jonathanmacedo/404-not-found)
+![Bagde](https://img.shields.io/github/stars/jonathanmacedo/404-not-found)
 
 <hr>
 <p align="center">🚧 ✅Concluído✅ 🚧</p>
